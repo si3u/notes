@@ -1,1 +1,1 @@
-![alt text][logo]
+![Git Flow][https://github.com/si3u/notes/blob/master/git-flow-commands.png]
